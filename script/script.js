@@ -47,5 +47,5 @@ function salvar() {
   }
 
   alert("Inscrição salva com sucesso!");
-  window.location.href = "index.html";
+  window.location.href = "/html/index.html";
 }
