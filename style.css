@@ -13,6 +13,11 @@ footer {
     width: 100%;
 }
 
+
+a:visited {
+    color: #f1c40f;
+}
+
 .card {
     background-color: white;
     width: 320px;
@@ -47,6 +52,6 @@ button:hover {
 }
 
 .erro {
-    color: #d63031;
+    color: #0a2dde;
     font-size: 12px;
 }
