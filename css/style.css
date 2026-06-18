@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e9eef3;
+}
+
+header,
+footer {
+    background-color: #005ba6;
+    color: white;
+    text-align: center;
+    padding: 18px;
+    width: 100%;
+}
+
+
+a:visited {
+    color: #f1c40f;
+}
+
+.card {
+    background-color: white;
+    width: 320px;
+    margin: 120px auto;
+    padding: 30px;
+    border-radius: 12px;
+    border-top: 5px solid #f1c40f;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #d0d0d0;
+    border-radius: 6px;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #ffd942;
+    color: #333;
+    border: none;
+    border-radius: 6px;
+    margin-top: 12px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ffd739;
+}
+
+.erro {
+    color: #0a2dde;
+    font-size: 12px;
+}
